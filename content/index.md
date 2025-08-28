@@ -13,6 +13,7 @@ longform:
     - Zuflucht
     - Date 4 - Der Pfarrer
     - Kakao
+    - Date 5 - Der Professor
     - WIP
     - - Date X - WIP Die Erfinderin
       - Date X - WIP Der Pechvogel
