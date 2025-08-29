@@ -14,8 +14,9 @@ longform:
     - Date 4 - Der Pfarrer
     - Kakao
     - Date 5 - Der Professor
+    - Poulet Provençal
+    - Date 6 - Die Erfinderin
     - WIP
-    - - Date X - WIP Die Erfinderin
       - Date X - WIP Der Pechvogel
       - Date X - WIP Der Professor
       - Date X - WIP Die Astrologin
