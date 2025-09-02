@@ -16,6 +16,7 @@ longform:
     - Date 5 - Der Professor
     - Poulet Provençal
     - Date 6 - Die Erfinderin
+    - Traum oder Kuss
     - WIP
       - Date X - WIP Der Pechvogel
       - Date X - WIP Der Professor
