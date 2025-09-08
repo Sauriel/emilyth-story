@@ -18,16 +18,7 @@ longform:
     - Date 6 - Die Erfinderin
     - Traum oder Kuss
     - Date 7 - Die Muse
-    - WIP
-      - Date X - WIP Der Pechvogel
-      - Date X - WIP Der Professor
-      - Date X - WIP Die Astrologin
-      - Date X - WIP Der Nerd
-      - Date X - WIP Die Offizierin
-      - Date X - WIP Die Prinzessin
-      - Date X - WIP Der Jäger
-      - Date X - WIP Die Künstlerin
-      - Date X - WIP Die Cosplayerin
+    - Festival-Fieber
   ignoredFiles:
     - undefined
 ---
