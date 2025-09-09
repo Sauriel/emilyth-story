@@ -19,6 +19,7 @@ longform:
     - Traum oder Kuss
     - Date 7 - Die Muse
     - Festival-Fieber
+    - Date 8 - Die Hühnerbrühe
   ignoredFiles:
     - undefined
 ---
